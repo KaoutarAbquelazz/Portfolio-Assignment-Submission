@@ -4,11 +4,6 @@ Welcome to my collection of C# and .NET projects! This portfolio showcases vario
 
 ## Featured Projects
 
-### 1. ASP.NET MVC with Entity Framework
-- **Overview**: This project demonstrates how to build a dynamic web application using ASP.NET MVC in combination with Entity Framework for database access. CRUD operations, routing, and model binding are all covered.
-- **Key Concepts**: ASP.NET MVC, Entity Framework, LINQ, Razor Views.
-- **Repository**: [ASP.NET MVC Entity Framework](https://github.com/KaoutarAbquelazz/ASP.NET-MVC-Entity-Framework)
-
 ---
 
 ### 2. Polymorphism and Interface Usage
